@@ -7,7 +7,7 @@ The first place 2022 Hackathon solution by Team Tense and Slow.
                                                                      
                                                                                 
 
-Jupyter notebooks are executable with a complete conda library. Some dependencies for esoteric packages may be require a conda or pip install.
+Jupyter notebooks are executable with a complete conda library. Some dependencies for esoteric packages may require a conda or pip install.
 
 
             ,
