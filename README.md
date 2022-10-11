@@ -1,5 +1,5 @@
 # tenseandslow
-2022 Hackathon solution by Team Tense and Slow
+The first place 2022 Hackathon solution by Team Tense and Slow.
 
     ___  ___         __   ___     _         __      __        _          
      )   )_   )\ )  (_ `  )_     /_)  )\ )  ) )    (_ `  )   / ) \  X  /™
@@ -35,7 +35,7 @@ Jupyter notebooks are executable with a complete conda library. Some dependencie
                       \>\>\>   \   /\__o_o)
                                 | /  VVVVV
                                 \ \    \
-                                 \ \MMMMM                  oh bugger!
+                                 \ \MMMMM                  We won!
                                   \______/         _____ /
                                                   |  O O|
                                                  /___|_|/\_
